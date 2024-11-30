@@ -1,0 +1,8 @@
+view\RiceVarietyList_View.class
+view\DataInput.class
+model\RiceVariety.class
+model\RiceVarietyList.class
+view\Menu.class
+controller\RiceVarietyManagement$1.class
+controller\RiceVarietyManagement.class
+view\RiceVarietyList_View$1.class
